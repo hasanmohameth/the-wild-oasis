@@ -8,7 +8,7 @@ Live Demo: https://your-live-demo-url.com
 # 🛠️ Tech Stack
 
 - Next.js (App Router)
-- React
+- React.js
 - JavaScript (ES6+)
 - Tailwind CSS
 - Supabase
