@@ -1,21 +1,22 @@
-#🛠️ Tech Stack
-Next.js 15 (App Router)
-React 19
-JavaScript (ES6+)
-Tailwind CSS
-Supabase
-Auth.js (NextAuth v5)
-Google OAuth
-GitHub OAuth
-React Day Picker
-date-fns
-Heroicons
-Server Components
-Client Components
-Server Actions
-Dynamic Routing
-Route Handlers
-Context API
-Image Optimization (Next/Image)
-ESLint
-Vercel
+## 🛠️ Tech Stack
+
+- Next.js 15 (App Router)
+- React 19
+- JavaScript (ES6+)
+- Tailwind CSS
+- Supabase
+- Auth.js (NextAuth v5)
+- Google OAuth
+- GitHub OAuth
+- React Day Picker
+- date-fns
+- Heroicons
+- Server Components
+- Client Components
+- Server Actions
+- Dynamic Routing
+- Route Handlers
+- Context API
+- Image Optimization (Next/Image)
+- ESLint
+- Vercel
