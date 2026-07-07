@@ -1,4 +1,4 @@
-🛠️ Tech Stack
+
 Next.js 15 (App Router)
 React 19
 JavaScript (ES6+)
