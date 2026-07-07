@@ -1,3 +1,10 @@
+# The wild Oasis 
+ A full-stack cabin booking application built with Next.js App Router and Supabase. It enables users to browse available cabins, reserve dates, authenticate securely with Google or GitHub, and manage their bookings through a clean and intuitive interface.
+
+This project showcases modern React and Next.js development concepts, including Server Components, Server Actions, authentication, data fetching, caching strategies, and responsive UI design, with a strong focus on performance and user experience.
+
+Live Demo: https://your-live-demo-url.com
+
 # 🛠️ Tech Stack
 
 - Next.js 15 (App Router)
