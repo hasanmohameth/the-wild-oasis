@@ -1,4 +1,17 @@
+
+// @ts-check
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'wchsadxhwdcwnhrdmqbb.supabase.co',
+        pathname: '/storage/v1/object/public/cabin-images/**',
+      },
+    ],
+  },
+  // output:"export",
+}
 
 export default nextConfig;
