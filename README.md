@@ -23,7 +23,7 @@ Live Demo: https://your-live-demo-url.com
 - Server Actions
 - Dynamic Routing
 - Route Handlers
-- Image Optimization (Next/Image)
+- Image & Link Optimization (Next/Image&Link)
 - ESLint
 - Vercel
 
