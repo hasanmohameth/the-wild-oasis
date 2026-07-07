@@ -3,7 +3,7 @@
 A full-stack cabin booking application built with Next.js App Router and Supabase. 
 It allows users to explore luxury cabins, check availability, make reservations, authenticate securely with Google or GitHub, and manage their bookings through a clean and intuitive interface.
 
-Live Demo: https://your-live-demo-url.com
+Live Demo: https://the-wild-oasis-demo-wine.vercel.app
 
 # 🛠️ Tech Stack
 
