@@ -21,19 +21,17 @@
 - ESLint
 - Vercel
 
-# 🚀 Features
+#🚀 Features
 
-- 🏡 Browse available cabins with detailed information
-- 📅 Book cabins using an interactive date picker
-- 🚫 Prevent bookings on unavailable dates
-- 🔐 Secure authentication with Google & GitHub
-- 👤 Manage personal profile and account information
-- 📖 View all current and past reservations
-- ✏️ Update existing reservations
-- 🗑 Cancel reservations with optimistic UI updates
-- ⚡ Fast navigation powered by the Next.js App Router
-- 💾 Persistent data storage with Supabase
-- 🖼 Optimized images using Next.js Image
-- 📱 Fully responsive design
-- ⏳ Loading and error handling
-- ♻️ Automatic cache revalidation after data updates
+- 🏕 Explore luxury cabins with rich details and amenities
+- 📅 Check cabin availability and reserve dates
+- 🚫 Intelligent booking validation to prevent date conflicts
+- 🔐 Authentication via Google and GitHub OAuth
+- 👤 Personalized user dashboard
+- 📋 View, update, and cancel reservations
+- ⚡ Instant UI updates using Optimistic UI
+- 🔄 Server Actions for secure data mutations
+- 💾 Supabase-powered backend and database
+- 🖼 Automatic image optimization with Next.js
+- 📱 Responsive experience across all devices
+- ⏳ Built-in loading, error, and not-found pages
